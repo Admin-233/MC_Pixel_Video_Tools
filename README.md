@@ -15,3 +15,5 @@ https://www.bilibili.com/video/BV1BP4y1W7xd/
 # 关于Python及第三方库的安装
 去python.org装Python3   
 之后用本库requirements.txt的执行pip3 install -r requirements.txt
+
+# 此项目现已停止维护，原因是有了更多更好的解决方案，且时间久远，这里面的技术问题我也搞不清楚了
